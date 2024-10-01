@@ -1,10 +1,9 @@
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-patches-version = "latest"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea ReVanced"
 arch = "both"
-build-mode = "module"
+build-mode = "both"
 version = "19.16.39"
 included-patches = "'MaterialYou'"
